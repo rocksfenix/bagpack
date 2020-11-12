@@ -1,0 +1,27 @@
+{
+  "name": "bagpack",
+  "version": "0.1.0",
+  "description": "An tool to bundle JS such as webpack for experimental purposes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Gerardo Gallegos <puxerop@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.16.0",
+    "@babel/parser": "^7.16.2",
+    "@babel/preset-env": "^7.16.0",
+    "@babel/traverse": "^7.16.0",
+    "react": "^17.0.2",
+    "resolve": "^1.20.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.3",
+    "standard": "^16.0.4"
+  },
+  "standard": {
+    "parser": "babel-eslint"
+  }
+}
