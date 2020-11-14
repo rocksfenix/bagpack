@@ -2,7 +2,7 @@
   "name": "bagpack",
   "version": "0.1.0",
   "description": "An tool to bundle JS such as webpack for experimental purposes.",
-  "main": "index.js",
+  "main": "./lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
