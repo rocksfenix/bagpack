@@ -4,6 +4,7 @@
   "description": "An tool to bundle JS such as webpack for experimental purposes.",
   "main": "./lib/index.js",
   "scripts": {
+    "build": "node ./lib",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
